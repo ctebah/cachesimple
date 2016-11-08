@@ -7,6 +7,7 @@
 	"name" : "xrt/cachesimple",
 	"type" : "git",
 	"require" : {
-		"php" : ">=5.5"
+		"php" : ">=5.5",
+		"psr/cache": "^1.0"
 	}
 }
