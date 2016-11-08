@@ -1,0 +1,12 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Xrt\\CacheSimple\\" : "src"
+		}
+	},
+	"name" : "xrt/cachesimple",
+	"type" : "git",
+	"require" : {
+		"php" : ">=5.5"
+	}
+}
